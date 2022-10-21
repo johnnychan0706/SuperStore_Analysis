@@ -1,12 +1,12 @@
-# SuperStore Analysis
-## Exploratory Data Analysis on Super Store
+# Superstore Analysis
+## Exploratory Data Analysis on Superstore
 
  #### Introduction
  ![image](Superstore.jpeg)
  [Image credit](https://images.dailyhive.com/20210114091118/shutterstock_1201436956.jpg)
 
  #### Background
-Super Store is a reail store in the United States. They sell various products such as office supplies, furniture and electronics. This dataset comprises sales data, location and types of product for orders.
+Superstore is a reail store in the United States. They sell various products such as office supplies, furniture and electronics. This dataset comprises sales data, location and types of product for orders.
 
  #### Task
  We have to identify the business opportunity and issues for Super Store to assist with the market growth
