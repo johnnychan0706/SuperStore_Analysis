@@ -1,4 +1,4 @@
-# SuperStore_Analysis
+# SuperStore Analysis
 ## Exploratory Data Analysis on Super Store
 
  #### Introduction
