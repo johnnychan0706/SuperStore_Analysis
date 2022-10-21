@@ -2,7 +2,7 @@
 ## Exploratory Data Analysis on Super Store
 
  #### Introduction
- ![image]()
+ ![image](Superstore.jpeg)
  [Image credit](https://images.dailyhive.com/20210114091118/shutterstock_1201436956.jpg)
 
  #### Background
