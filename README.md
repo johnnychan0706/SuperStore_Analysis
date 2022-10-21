@@ -21,7 +21,5 @@ Super Store is a reail store in the United States. They sell various products su
  #### Tool
  Python
 
- #### Data Set
-
- The data set is publicly available on Kaggle (https://www.kaggle.com/akashkothare/tsf-datasets)
- The data set is publicly available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
+ #### Data
+ The data set is available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
