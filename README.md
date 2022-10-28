@@ -6,10 +6,10 @@
  [Image credit](https://images.dailyhive.com/20210114091118/shutterstock_1201436956.jpg)
 
  #### Background
-Superstore is a reail store in the United States. They sell various products such as office supplies, furniture and electronics. This dataset comprises sales data, location and types of product for orders.
+Superstore is a retail store in the United States. They sell various products such as office supplies, furniture and electronics. This dataset comprises sales data, location and types of product for orders.
 
  #### Task
- We have to identify the business opportunity and issues for Super Store to assist with the market growth
+ We have to identify the business opportunities and issues for Super Store to assist with the market growth
 
  #### Data Questions
 1) What is the best and worst selling category ?
