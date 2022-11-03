@@ -20,6 +20,9 @@ Superstore is a retail store in the United States. They sell various products su
 
  #### Tool
  Python
-
+ 
+ #### Analysis
+ Click [HERE](https://github.com/johnnychan0706/SuperStore_Analysis/blob/main/Superstore.ipynb) for the analysis
+ 
  #### Data
  The data set is available on [Kaggle](https://www.kaggle.com/akashkothare/tsf-datasets).
